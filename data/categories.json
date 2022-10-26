@@ -1,0 +1,38 @@
+[
+    {
+        "id": "01",
+        "name": "Artificial Intelligence"
+    },
+    {
+        "id": "02",
+        "name": "Autonomous Systems"
+    },
+    {
+        "id": "03",
+        "name": "Business"
+    },
+    {
+        "id": "04",
+        "name": "Cloud Computing"
+    },
+    {
+        "id": "05",
+        "name": "Cybersecurity"
+    },
+    {
+        "id": "06",
+        "name": "Data Science"
+    },
+    {
+        "id": "07",
+        "name": "Product Management"
+    },
+    {
+        "id": "08",
+        "name": "Programming & Development"
+    },
+    {
+        "id": "09",
+        "name": "Career"
+    }
+]
