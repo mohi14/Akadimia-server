@@ -34,6 +34,12 @@ app.get('/checkout/:id', (req, res) => {
     res.send(selectedCourse);
 });
 
+app.get('/featured-courses', (req, res) => {
+    const featuredCourses = courses.slice(15, 18);
+    res.send(featuredCourses)
+
+})
+
 app.get('/courses', (req, res) => {
     res.send(courses)
 });
